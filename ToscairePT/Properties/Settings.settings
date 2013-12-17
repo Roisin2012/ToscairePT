@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ToscairePT.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="ToscairePT_output_Output" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://dbd08f92199846689a5a27044a2ec649.cloudapp.net/Output.svc</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
